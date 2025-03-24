@@ -18,6 +18,7 @@
    *  [Ayra Trust Registry Conformance Test](https://github.com/ayraforum/ayra-trust-registry-resources/tree/main/tests)
    *  [TRQP API Docs](https://ayraforum.github.io/ayra-trust-registry-resources/api-docs/)
 * [Technical Discussions](https://github.com/GANfoundation/technical-discussions/tree/main)
+* [Technical Office Hours Agenda And Notes](https://docs.google.com/document/d/1BHOm-vidiBrwt5JeW7rg46ChvEhwstZwU7PNJeikFwU/edit?tab=t.0#heading=h.ycei4a9whl8f)
 * Conformance Test Suite (coming)
 
 ## Getting Involved
