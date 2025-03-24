@@ -26,7 +26,7 @@ Access resources for implementing and interacting with the Ayra Trust Network.
 
 - **[Trust Registry Resources on GitHub](https://github.com/ayraforum/ayra-trust-registry-resources)**  
   - **[TRQP Implementation Profile](https://ayraforum.github.io/ayra-trust-registry-resources/)**: Understand the requirements to become a Trust Registry Provider within the Ayra Trust Network.  
-  - **[Implementers Guide](https://ayraforum.github.io/ayra-trust-registry-resources/guides/)**: Step-by-step guidance for implementing the Ayra Trust Registry.  
+  - **[Implementers Guide](https://ayraforum.github.io/ayra-trust-registry-resources/guides/)**: Step-by-step guidance for implementing a compatiable Ayra Trust Network registry. 
   - **[Trust Registry Playground](https://github.com/ayraforum/ayra-trust-registry-resources/tree/main/playground)**: Experiment with a local version of the Ayra Trust Network.  
   - **[Ayra Trust Registry Conformance Test](https://github.com/ayraforum/ayra-trust-registry-resources/tree/main/tests)**: Test your trust registry against the Ayra TRQP profile.  
   - **[TRQP API Documentation](https://ayraforum.github.io/ayra-trust-registry-resources/api-docs/)**: Access Swagger API documentation or download the OpenAPI YAML file.  
