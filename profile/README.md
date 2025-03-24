@@ -1,5 +1,7 @@
 ## Welcome to the Ayra Forum
 
+<img src="./imgs/logo.png" width=200px alt="ayra logo" />
+
 ## Technical Resources
 * [Arya Forum Website](https://ayra.forum/)
   * [Introduction To Ayra](https://ayra.forum/ayra-introduction/)
