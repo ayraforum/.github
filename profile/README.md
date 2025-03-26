@@ -4,14 +4,14 @@
 
 ## Technical Resources
 
-# Arya Forum Documentation
+# Ayra Forum Documentation
 
 ---
 
-## 🌐 Arya Forum Website  
+## 🌐 Ayra Forum Website  
 Explore the Arya Forum website to learn more about the Ayra Trust Network and its components.  
 
-- **[Arya Forum Website](https://ayra.forum/)**  
+- **[Ayra Forum Website](https://ayra.forum/)**  
   - **[What We Are Building](https://ayra.forum/where-were-at/)**: Discover our vision and current progress.  
   - **[Whitepapers](https://ayra.forum/whitepapers/)**: Access detailed documentation on Arya's concepts and models.  
     - **[Introduction To Ayra](https://ayra.forum/ayra-introduction/)**: Understand what Ayra is and why it matters.  
