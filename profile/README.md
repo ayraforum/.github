@@ -9,11 +9,11 @@
 ---
 
 ## 🌐 Ayra Forum Website  
-Explore the Arya Forum website to learn more about the Ayra Trust Network and its components.  
+Explore the Ayra Forum website to learn more about the Ayra Trust Network and its components.  
 
 - **[Ayra Forum Website](https://ayra.forum/)**  
   - **[What We Are Building](https://ayra.forum/where-were-at/)**: Discover our vision and current progress.  
-  - **[Whitepapers](https://ayra.forum/whitepapers/)**: Access detailed documentation on Arya's concepts and models.  
+  - **[Whitepapers](https://ayra.forum/whitepapers/)**: Access detailed documentation on Ayra's concepts and models.  
     - **[Introduction To Ayra](https://ayra.forum/ayra-introduction/)**: Understand what Ayra is and why it matters.  
     - **[Ecosystems of Ecosystems Model](https://ayra.forum/ayra-ecosystem-of-ecosystems-whitepaper/)**: Learn about the interconnected network of ecosystems.  
     - **[The Special Network Effects of Ayra Network Credentials](https://ayra.forum/ayra-network-effects-whitepaper/)**: Discover the unique value and importance of network credentials.  
